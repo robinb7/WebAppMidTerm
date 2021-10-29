@@ -1,6 +1,6 @@
 {
   "name": "comp229-f2020-midterm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node server.js"
@@ -43,16 +43,22 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robinb7/WebAppMidTerm.git"
+  },
+
+  "author": "Robin",
   "license": "ISC",
-  "homepage": ""
+  "bugs": {
+    "url": "https://github.com/robinb7/WebAppMidTerm.git/issues"
+  },
+  "homepage": "https://github.com/robinb7/WebAppMidTerm#readme"
 }
+
